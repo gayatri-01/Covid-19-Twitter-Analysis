@@ -1,4 +1,4 @@
-# CoronaTwitterAnalysis
+# Covid-19 Twitter Analysis
 
 ## Part 1: Sentiment Analysis on Corona-Tweets
 ### Data: [Kaggle Tweets Dataset](https://www.kaggle.com/smid80/coronavirus-covid19-tweets)
